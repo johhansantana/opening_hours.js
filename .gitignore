@@ -1,4 +1,5 @@
 export*
+.idea
 
 # Enable the following line for repositories which should track statistical data.
 # !export♡*♡stats.csv
